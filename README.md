@@ -15,6 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-02 at 23 44 57](https://github.com/MariiaMohylska/codepath_prework_app/assets/55410334/75ec1d19-79f5-4f2b-8cbe-c3444916b9ec)
+
 
 ## App Brainstorming (Step 4)
 
